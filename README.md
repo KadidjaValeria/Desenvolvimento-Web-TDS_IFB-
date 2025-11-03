@@ -11,7 +11,7 @@ Atividade Listas:
 
 Atividade Dicionário:
 
-Atividade TODO:
+Atividade TODO: https://colab.research.google.com/drive/1ltZ6x7sI2xhLmN7t5kjpE5CP-NM8Z7CO#scrollTo=-hhZTOsOpgdn
 
 
 > “POO não é apenas sobre código, é sobre pensar como um arquiteto de soluções.”
