@@ -3,9 +3,15 @@ Atividades: Da Programação Orientada a Objetos ao Desenvolvimento Web com Djan
 
 # Atividades de Programação Orientada a Objetos (POO)
 
-## Descrição das Atividades
+# Descrição das Atividades
 
-Principais conceitos da Programação Orientada a Objetos, utilizando exemplos práticos e exercícios aplicados. 
+Principais conceitos da Programação Orientada a Objetos, utilizando exemplos práticos e exercícios aplicados com a Linguagem Python:
+
+Atividade Listas:
+
+Atividade Dicionário:
+
+Atividade TODO:
 
 
 > “POO não é apenas sobre código, é sobre pensar como um arquiteto de soluções.”
